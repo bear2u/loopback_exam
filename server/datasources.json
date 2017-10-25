@@ -1,0 +1,12 @@
+{  
+  "db": {
+    "host": "localhost",
+    "port": 3307,
+    "url": "",
+    "database": "board",
+    "password": "root",
+    "name": "board",
+    "user": "root",
+    "connector": "mysql"
+  }
+}
